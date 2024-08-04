@@ -1,4 +1,13 @@
+EVALUACIÓN MÓDULO JQUERY PARA MANIPULAR EL DOM
 
-
-jquery 3.7.1
+jquery CDN
 boostrap  5.3.3
+
+
+para clonar
+
+https://github.com/ThDelgado/evaluacion_m2s10.git
+
+
+para ver en web
+
